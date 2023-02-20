@@ -14,4 +14,4 @@ def classify0(inX, dataSet, labels, k):
 
 
 group, labels = createDataSet()
-print(group,labels)
+
